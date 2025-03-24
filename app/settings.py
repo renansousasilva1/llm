@@ -9,7 +9,7 @@ SECRET_KEY = 'django-insecure-(7og=qfn3zoloayn5csr73*9_uktq=1enr*qlqssovw72^!kof
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['http://gtimvg.conteige.cloud/']
 
 
 # Application definition
